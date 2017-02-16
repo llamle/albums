@@ -1,6 +1,5 @@
 # Albums
-
-![Alt text](albums-image.jpg?raw=true "Albums Image")
+<img src="https://github.com/llamle/albums/blob/master/albums-image.png?raw=true" width="150">
 
 ## Synopsis
 
