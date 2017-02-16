@@ -1,5 +1,7 @@
 # Albums
 
+![Alt text](albums-image.jpg?raw=true "Albums Image")
+
 ## Synopsis
 
 This is my first attempt at building a react-native application. This is primarily an exploratory app to see if I enjoy working in react and in react-native.
